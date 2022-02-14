@@ -1,4 +1,4 @@
-# PornHub-Age-Verification
+# Disables PornHub Age Verification
 # For Chromium based browsers only
 
 Disables age verification with VK.com account on pornhub.com in Russian Federation \
